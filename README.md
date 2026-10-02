@@ -1,2 +1,2 @@
 
-# Leetcode SQL 50 Challenge
+# Leetcode SQL 50 Challenge.
